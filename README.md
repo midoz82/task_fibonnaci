@@ -1,5 +1,7 @@
 # FastAPI
 
+the project is modified from https://github.com/tiangolo/fastapi
+
 ## Technologies
 - FastApi: choosed the fastapi to create a Performance solution and have Data Validation 
 - Uvicorn: Concurrency, HTTP/1.1 and WebSockets and Compatibility
@@ -10,10 +12,12 @@
 
 The architecture of the project is meticulously
 automated, eliminating the need for manual loading of environment variables,
-thus streamlining the setup process. This automation, coupled with a decoupled design, 
-paves the way for seamless integration of emerging technologies. The decoupled nature of the infrastructure significantly 
+thus streamlining the setup process. This automation, coupled with a modular design, 
+paves the way for seamless integration of emerging technologies. The modular nature of the infrastructure significantly 
 eases the integration process, making the adaptation of new technologies a hassle-free endeavor. Such a design not only future-proofs the project but also enhances its flexibility and maintainability,
-ensuring that it remains at the forefront of technological advancements.
+ensuring that it remains at the forefront of technological advancements. 
+
+you don't need to load the .env it will load automatically.
 
 ## Requirements
 
