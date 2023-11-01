@@ -1,0 +1,16 @@
+2023-10-30 11:04:18,693 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2023-10-30 11:04:18,701 INFO supervisord started with pid 1
+2023-10-30 11:04:19,705 INFO spawned: 'webserver' with pid 7
+2023-10-30 11:04:19,709 INFO spawned: 'worker' with pid 8
+2023-10-30 11:04:20,713 INFO success: webserver entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-10-30 11:04:20,714 INFO success: worker entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-10-30 11:05:47,905 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2023-10-30 11:05:47,917 INFO supervisord started with pid 1
+2023-10-30 11:05:48,923 INFO spawned: 'webserver' with pid 8
+2023-10-30 11:06:53,894 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2023-10-30 11:06:53,901 INFO supervisord started with pid 1
+2023-10-30 11:06:54,905 INFO spawned: 'webserver' with pid 8
+2023-10-30 11:06:55,908 INFO success: webserver entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-10-30 11:13:58,001 WARN received SIGTERM indicating exit request
+2023-10-30 11:13:58,003 INFO waiting for webserver to die
+2023-10-30 11:13:58,247 INFO stopped: webserver (exit status 0)
