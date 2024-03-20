@@ -1,6 +1,6 @@
 # FastAPI
 
-the project is modified from https://github.com/tiangolo/fastapi
+the project is generated from https://github.com/tiangolo/fastapi
 
 ## Technologies
 - FastApi: choosed the fastapi to create a Performance solution and have Data Validation 
